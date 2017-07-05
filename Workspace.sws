@@ -5,7 +5,15 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{0D8926C8-8C1E-46A0-A02E-9DA3323D2EA8}" Loaded="No" Name="idea" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/1projects/idea/idea.pdm"/>
-		<Model Expanded="Yes" ID="{0D8926C8-8C1E-46A0-A02E-9DA3323D2EA8}" Name="idea" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="idea.pdm"/>
+		<Model Expanded="Yes" ID="{0D8926C8-8C1E-46A0-A02E-9DA3323D2EA8}" Loaded="No" Name="idea" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="idea.pdm"/>
+		<Model Expanded="Yes" ID="{0D8926C8-8C1E-46A0-A02E-9DA3323D2EA8}" Loaded="No" Name="idea" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="idea.pdm"/>
+		<Model Expanded="Yes" ID="{0D8926C8-8C1E-46A0-A02E-9DA3323D2EA8}" Loaded="No" Name="idea" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="idea.pdm"/>
+		<Model Expanded="Yes" ID="{083E4E16-55CA-4BA0-AE87-872BCFB7EA06}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/yuzhipeng/Desktop/PhysicalDataModel_1.pdm"/>
+		<Model Expanded="Yes" ID="{083E4E16-55CA-4BA0-AE87-872BCFB7EA06}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/yuzhipeng/Desktop/PhysicalDataModel_1.pdm"/>
+		<Model Expanded="Yes" ID="{083E4E16-55CA-4BA0-AE87-872BCFB7EA06}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/yuzhipeng/Desktop/Idea项目文件/PhysicalDataModel_1.pdm"/>
+		<Model Expanded="Yes" ID="{083E4E16-55CA-4BA0-AE87-872BCFB7EA06}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/yuzhipeng/Desktop/Idea项目文件/PhysicalDataModel_1.pdm"/>
+		<Model Expanded="Yes" ID="{083E4E16-55CA-4BA0-AE87-872BCFB7EA06}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/yuzhipeng/Desktop/Idea.pdm"/>
+		<Model Expanded="Yes" ID="{083E4E16-55CA-4BA0-AE87-872BCFB7EA06}" Name="PhysicalDataModel_1" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/yuzhipeng/Desktop/Idea项目文件/Idea.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
